@@ -1,0 +1,2 @@
+[workspace]
+members = ["annot-data", "annot-scrap"]
